@@ -1,2 +1,4 @@
 *.pyc
 node.exe
+*.o
+*.hi
