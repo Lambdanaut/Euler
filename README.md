@@ -5,7 +5,7 @@ A collection of my Project Euler solutions written in multiple languages. If I s
 
 <b>Languages used</b>: 
 <ul>
-  <li>[Haskell](http://haskell.org)</li>
-  <li>[Python](http://python.org)</li>
-  <li>[C++](http://en.wikipedia.org/wiki/C%2B%2B)</li>
+  <li><a href="http://haskell.org)">Haskell</a></li>
+  <li><a href="http://python.org">Python</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/C%2B%2B">C++</a></li>
 </ul>
