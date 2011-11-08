@@ -3,3 +3,4 @@ node.exe
 *.o
 *.hi
 *.swp
+*.swo
