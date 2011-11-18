@@ -1,0 +1,10 @@
+(defn fibo [x y] 
+  (if (> x 4000000 ) 
+    '()
+    (if (even? x) 
+      (concat (list x) (fibo y (+ x y) ) )
+      (concat '() (fibo y (+ x y) ) )
+    )
+  )
+)
+(println (reduce + (fibo 0 1) ) )
