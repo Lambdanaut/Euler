@@ -36,8 +36,7 @@ def search(grid):
     open_list = open_list + cur_possibilities
 
   # Get our final sum
-  print(open_list)
   return cur_sum
 
-# grid = load_grid('18.grid')
-# print(search(grid))
+grid = load_grid('18.grid')
+print(search(grid))
