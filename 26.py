@@ -1,5 +1,16 @@
 from collections import Counter
 
+class SuffixTree(object):
+    def __init__(self, string):
+        self._root = []
+
+        self._active_point = ('root', '\0x', 0)
+        self._remainder = 
+
+    def new_node(pointer, end=None, children=[]):
+        return (pointer, end, children)
+
+
 def remainder(dividend, divisor, precision):
     if dividend > divisor: return []
     cur_dividend=dividend
